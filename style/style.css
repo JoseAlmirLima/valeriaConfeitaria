@@ -1,0 +1,93 @@
+.navbar-default {
+    background-color: #FFC0CB;
+    border-color: #E7E7E7;
+}
+
+.carousel-inner > .item > img {
+    position-relative;
+    min-width: 100%;
+    height: 100%; /* Altura da imagem dentro do Carousel */
+}
+
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+        #centro { 
+                
+               
+                
+                left: 30%; 
+              
+                padding:10px;
+                position: absolute; 
+                top: 40%;
+                 }
+
+                 #olha { 
+                
+               
+                
+                left: 33%; 
+              
+                padding:10px;
+                position: absolute; 
+                top: 34%; }
+
+
+                 #olha2 { 
+                
+               
+                
+                left: 33%; 
+              
+                padding:10px;
+                position: absolute; 
+                top: 50%; }
+
+                 #olha3 { 
+                
+               height:90px
+               width: 30px;
+                
+                 }
+  #olha4 { 
+                
+               
+                
+                left: 55%; 
+              
+                padding:10px;
+                position: absolute; 
+                top: 28%;
+                 }
+
+                  #olha5 { 
+                
+               
+                
+                left: 50%; 
+              
+                padding:10px;
+                position: absolute; 
+                top: 10%;
+                 }
+
+                 a { color: inherit; }
+
+         
+
+
+
+
+
